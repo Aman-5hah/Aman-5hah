@@ -1,3 +1,9 @@
+I'm a final year Computer Science student who loves programming. I'm really into C and C++, and lately, I've been learning Java too. I enjoy solving problems using these languages, and I'm always looking to learn more.
+
+I'm curious and eager to grow in the tech world. I'm excited about using my skills to work on cool projects and team up with others who share my passion for technology.
+
+Let's connect and chat about programming, tech, or anything else you're interested in!
+
 - 👋 Hi, I’m @Aman-5hah
 - 👀 I’m interested in problem solving in an eye catchy way. 
 - 🌱 I’m currently learning JAVA.

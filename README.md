@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&duration=3000&pause=900&color=F7F7F7&vCenter=true&random=false&width=550&height=55&lines=Welcome+To+Aman's+GitHub+Profile+🙏🏻;Here+You+Can+See+Some;Common+Projects+in++Unique+Way%F0%9F%98%8A;Thank+You+!!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&duration=3000&pause=900&color=F7F7F7&vCenter=true&random=false&width=600&height=55&lines=Welcome+To+Aman's+GitHub+Profile+🙏🏻;Here+You+Can+See+Some;Common+Projects+in++Unique+Way%F0%9F%98%8A;Thank+You+!!+👋🏻)](https://git.io/typing-svg)
 
 I'm a final year Computer Science student who loves programming. I'm really into C and C++, and lately, I've been learning Java too. I enjoy solving problems using these languages, and I'm always looking to learn more.
 
